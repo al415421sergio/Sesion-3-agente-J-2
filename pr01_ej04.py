@@ -1,4 +1,4 @@
-print('puto perro de mierda deja de jugar y ponte a trabajar')
+print('recientemente sergio es un pedassso de pelotudo')
 
 #(a) Si tu compañero está en primero (valor 1) de videojuegos (valor 'videojuegos')
 curso_compañero==1 and grado_compañero=='Diseño y desarrollo de videojuegos'
