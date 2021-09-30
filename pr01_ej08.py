@@ -1,3 +1,5 @@
+print('me cago en to')
+
 from turtle import *
 from math import sqrt
 pantalla = Screen()
